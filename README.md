@@ -63,3 +63,7 @@ This project demonstrates real-world SaaS engineering patterns including authent
 
 <img width="1440" height="778" alt="dashboard-preview" src="https://github.com/user-attachments/assets/54d47f32-8121-4bfe-bad5-df1af27607d3" />
 
+<img width="1440" height="778" alt="settings-musicdistributor" src="https://github.com/user-attachments/assets/9bed5cf1-e445-4d66-9d51-0560cb3435af" />
+
+
+
