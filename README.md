@@ -27,7 +27,7 @@ This project demonstrates real-world SaaS engineering patterns including authent
 ---
 
 ## Live Demo
-https://your-vercel-url.vercel.app
+music-distributor-saas.vercel.app
 
 ---
 
