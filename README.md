@@ -1,36 +1,58 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🎵 Music Distributor SaaS
 
-## Getting Started
+A full-stack music distribution platform inspired by tools like DistroKid.
 
-First, run the development server:
+Built with modern SaaS architecture using:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- Next.js (App Router)
+- TypeScript
+- Tailwind CSS
+- Supabase (Auth + PostgreSQL)
+- Prisma ORM
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🚀 Overview
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Music Distributor is a secure web application where artists can:
 
-## Learn More
+- Authenticate securely
+- View a streaming analytics dashboard
+- Manage account settings
+- Prepare releases for distribution
+- Simulate earnings and platform growth
 
-To learn more about Next.js, take a look at the following resources:
+This project demonstrates real-world SaaS engineering patterns including authentication flows, database modeling, and protected routes.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🏗 Architecture
 
-## Deploy on Vercel
+**Frontend**
+- React Server + Client Components
+- Shared layout architecture
+- Reusable UI system
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+**Backend**
+- Supabase authentication
+- PostgreSQL database
+- Prisma ORM for type-safe queries
+- Server-side route protection
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 🔐 Security
+
+- Server-side auth validation
+- Protected dashboard routes
+- Environment variables secured
+- Type-safe schema enforcement
+
+---
+
+## 🔮 Future Improvements
+
+- Real file upload pipeline
+- Stripe payouts
+- Role-based access control
+- Real analytics integration
