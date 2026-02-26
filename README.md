@@ -27,11 +27,7 @@ This project demonstrates real-world SaaS engineering patterns including authent
 ---
 
 ## Live Demo
-<p align="center">
-  <a href="https://your-site.vercel.app" target="_blank" rel="noopener noreferrer">
-    🚀 <strong>Live Demo</strong>
-  </a>
-</p>
+[https://music-distributor-saas.vercel.app/](https://music-distributor-saas.vercel.app/)
 
 ---
 
