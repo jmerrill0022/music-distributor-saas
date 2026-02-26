@@ -56,3 +56,10 @@ This project demonstrates real-world SaaS engineering patterns including authent
 - Stripe payouts
 - Role-based access control
 - Real analytics integration
+
+---
+
+## Screenshots!
+
+<img width="1440" height="778" alt="dashboard-preview" src="https://github.com/user-attachments/assets/54d47f32-8121-4bfe-bad5-df1af27607d3" />
+
