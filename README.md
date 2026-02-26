@@ -1,4 +1,4 @@
-# 🎵 Music Distributor SaaS
+# Music Distributor SaaS
 
 A full-stack music distribution platform inspired by tools like DistroKid.
 
@@ -12,7 +12,7 @@ Built with modern SaaS architecture using:
 
 ---
 
-## 🚀 Overview
+## Overview
 
 Music Distributor is a secure web application where artists can:
 
@@ -26,7 +26,7 @@ This project demonstrates real-world SaaS engineering patterns including authent
 
 ---
 
-## 🏗 Architecture
+## Architecture
 
 **Frontend**
 - React Server + Client Components
@@ -41,7 +41,7 @@ This project demonstrates real-world SaaS engineering patterns including authent
 
 ---
 
-## 🔐 Security
+## Security
 
 - Server-side auth validation
 - Protected dashboard routes
@@ -50,7 +50,7 @@ This project demonstrates real-world SaaS engineering patterns including authent
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - Real file upload pipeline
 - Stripe payouts
