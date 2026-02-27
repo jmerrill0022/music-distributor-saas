@@ -1,5 +1,10 @@
 # Music Distributor SaaS
 
+## Live Demo
+[https://music-distributor-saas.vercel.app/](https://music-distributor-saas.vercel.app/)
+
+---
+
 A full-stack music distribution platform inspired by tools like DistroKid.
 
 Built with modern SaaS architecture using:
@@ -23,11 +28,6 @@ Music Distributor is a secure web application where artists can:
 - Simulate earnings and platform growth
 
 This project demonstrates real-world SaaS engineering patterns including authentication flows, database modeling, and protected routes.
-
----
-
-## Live Demo
-[https://music-distributor-saas.vercel.app/](https://music-distributor-saas.vercel.app/)
 
 ---
 
